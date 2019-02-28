@@ -1,0 +1,13 @@
+<html>
+	<link rel="stylesheet" href="css/bootstrap.css">
+
+
+	 <script src="js/bootstrap.js"></script>
+ <script src="js/jquery.js"></script>
+
+<div class="container-fluid">
+<img src="images\tv.jpg" width=500px class="img-responsive"></img>
+<img src="images\car.jpg" width=500px class="img-thumbnail"></img>
+<img src="images\bk.jpg" width="500px" class="img-circle img-responsive"></img>
+
+</div>
